@@ -1,4 +1,4 @@
-### Olá, meu nome é <a href="https://github.com/igorAS-code/">Igor Alves</a> e seja bem-vindo(a) ao meu perfil! 🔥🔥
+### Olá, meu nome é <a href="https://github.com/igorAlves-code/">Igor Alves</a> e seja bem-vindo(a) ao meu perfil! 🔥🔥
 
 - Tenho 17 anos 🎂
 - Estudo na ETEC Dr. Celso Giglio 🏫
