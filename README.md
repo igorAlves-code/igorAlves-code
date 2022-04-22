@@ -7,8 +7,8 @@
 <hr>
 
 <div style="display: flex">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=igorAS-code&show_icons=true&bg_color=151D3B&icon_color=F8B400&title_color=30AADD&text_color=fff&border_color=151D3B">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorAS-code&layout=compact&langs_count=10&bg_color=151D3B&title_color=30AADD&text_color=fff&border_color=151D3B">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=igorAlves-code&show_icons=true&bg_color=151D3B&icon_color=F8B400&title_color=30AADD&text_color=fff&border_color=151D3B">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorAlves-code&layout=compact&langs_count=10&bg_color=151D3B&title_color=30AADD&text_color=fff&border_color=151D3B">
 </div>
 <br>
 
