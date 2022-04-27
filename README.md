@@ -2,7 +2,7 @@
 
 -  Tenho 17 anos 🍰
 -  Estudo na ETEC Dr. Celso Giglio 🏫
--  Sou apaixonado por programação 💛
+-  Sou apaixonado por programação ❤️
 
 
 <hr>
