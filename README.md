@@ -1,7 +1,7 @@
 ### Olá, meu nome é <a href="https://github.com/igorAlves-code/">Igor Alves</a> e seja bem-vindo(a) ao meu perfil! 🔥🔥
 
--  Tenho 18 anos 🍰
--  Estudo na ETEC Dr. Celso Giglio 🏫
+-  Tenho 20 anos 🍰
+-  Curso análise e desenvolvimento de sistema da UNICSUL 🏫
 -  Sou apaixonado por programação ❤️
 
 
